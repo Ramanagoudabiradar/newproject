@@ -1,0 +1,26 @@
+body{
+    background: url("../images/gymbg3.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+div{
+    background-color: whitesmoke;
+    margin: 400px 300px 150px 850px;
+    width: 40%;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.7;
+    color:black;
+}
+button{
+    background-color: gainsboro;
+    padding:10px;
+    font-size: 2em;
+    border-radius: 25px;
+}
+h1{
+    font-size: 3.5em;
+    color: ;
+}
+p{
+    font-size: 1.5em
+}
