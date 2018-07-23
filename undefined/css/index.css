@@ -1,0 +1,12 @@
+body{
+	background: url("../img/sign.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.container{
+	 width: 400px;
+    height: 400px;
+    margin: 150px auto;
+    border: 3px black;
+    border-radius: 20px;
+}
